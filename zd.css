@@ -1,0 +1,50 @@
+body{
+    background-image: url(hatter.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #504033;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: large;
+    margin-left: 250px;
+    margin-right: 250px;
+    line-height: 1.5;
+}
+
+.keret{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+}
+
+h1, h2{
+    text-decoration: underline;
+    font-size: xx-large;
+    text-align: center;
+}
+
+p{
+    text-indent: 25px;
+}
+
+#emlek{
+    width: 180px;
+    float: left;
+    margin-right: 15px;
+    border: 15px groove #504033;
+}
+
+.paprika{
+    height: 300px;
+    float: left;
+}
+
+ul{
+    list-style-image: url(dot.png);
+}
+
+hr{
+    width: 90%;
+    background-color: #504033;
+    border: #504033 5px solid;
+    box-shadow: 2px 2px 2px black;
+}
